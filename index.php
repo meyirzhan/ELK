@@ -112,14 +112,14 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-                        <h3>Aeronautics</h3>
+                        <h3>Аэронавтика</h3>
                         <p class="text-muted">Системы слежения за воздушным и космическим наведением</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                        <h3>Imaging</h3>
+                        <h3>Визуализация</h3>
                         <p class="text-muted">Точная визуализация без ошибок</p>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
                                 Космос
                                 </div>
                                 <div class="project-name">
-                                Вклад Аполлона
+                                Ракета Союз
                                 </div>
                             </div>
                         </div>
@@ -235,7 +235,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <h2 class="section-heading">Свяжитесь с нами!</h2>
                     <hr class="primary">
                     <p>Учитывая нашу очень конфиденциальную деятельность, мы не публикуем никаких контактных данных!</p>
                 </div>
